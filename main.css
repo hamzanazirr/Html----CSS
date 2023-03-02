@@ -1,0 +1,300 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+#hed{
+width: 100%;
+height: 13vh;
+background-color: rgb(245, 236, 224);
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+#divhed1{
+    width: 20%;
+    display: flex;
+align-items: center;
+justify-content: space-between;
+padding-left: 2%;
+
+}
+#divhed2{
+    width: 46%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-right: 2%;
+}
+#man1{ 
+    width: 100%;
+    height: 100vh;
+    background-image: url(background9.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 90%;
+}
+ #subdiv1{
+    width:35% ;
+    height: 70%;
+    justify-content: center;
+    align-items: center;
+}
+#con{
+    width: 100%;
+    height: 60%;;
+    margin-top: 18%;
+    text-align: center;
+    opacity: 100%;
+}
+ #subdiv2{
+    width:35% ;
+    height: 70%;
+    background-image: url(botal.jpg);
+ }
+ .btn{
+    border: 2px solid red;
+    margin: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+ }
+ .btn:hover{
+    background-color: red;
+ }
+ #aboutus{
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+ }
+ #mandiv2{
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    
+
+ }
+ #aboutdiv1{background-color: aliceblue;
+width: 26%;
+height: 100%;
+text-align: center;
+padding-top: 3%;
+ }
+ #aboutdiv2{background-color:aliceblue;
+width: 26%;
+height: 100%;
+margin-left: 5%;
+margin-right: 5%;
+text-align: center;
+padding-top: 3%;
+ }
+ #aboutdiv3{background-color: aliceblue;
+width: 26%;
+height: 100%;
+text-align: center;
+padding-top: 3%;
+ } 
+ .para{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ #mandiv3{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+ #fomdiv1{    
+    width: 45%;
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+ }
+ #fomdiv2{
+width: 45%;
+height: 85%;
+justify-content: center;
+text-align: center;
+background-image: url(saman.jpg);
+
+ }
+ #fomtitle{
+    width: 40%;
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 20%;
+    }
+ 
+ #fomdiv{
+    width: 40%;
+    height: auto;
+    margin-left: 20%;
+    justify-content: left;
+ }
+
+
+ #all{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 10%;
+
+ }
+ #divdiv{
+    margin: left 20%; ;
+    width: 100%;
+    height: 50vh;
+    text-align: center;
+    background-color: aliceblue;
+    padding-top: 16%;
+
+ }
+ #botal{
+    padding-top: 8%;
+    padding-bottom: 8%;
+    display: flex;
+width: 100%;
+height: 80vh;
+
+ }
+ #divbotaldatail{
+    width: 50%;
+    height: 80vh;
+    background-image: url(bare\ botal.jpg);
+
+ }
+
+
+#divbotal{
+    width: 50%;
+    height: 80vh;
+    text-align: left;
+    padding-top: 6%;
+    padding-left: 15%;
+
+}
+#divdiv1{
+    width: 100%;
+    height: 50vh;
+    padding-top: 16%;
+    display: flex;
+
+
+}
+
+#casmatic{  
+    width: 50%;
+    height: 80vh;
+    background-image: url(cas.jpg);
+
+
+
+}
+.pic{
+    width: 33.3%;
+    height: 100%;
+    margin-top: 3%;
+}
+#cassmaticdiv{
+    width: 50%;
+    height: 80vh;
+  background-color: aliceblue;
+}
+#caspic{
+    width: 100%;
+    height: 50%;
+    display: flex;
+   
+
+}
+#phol{
+    background-image: url(phol.jpg);
+
+}
+#casspic{
+    margin-top: 4%;
+    text-align: center;
+    width: 100%;
+    height: 50%;
+
+}
+#divnat{
+    margin-top: 25%;
+    width: 100%;
+    height: 50vh;
+    display: flex;
+}
+#divnat1{
+    width: 50%;
+    height: 80vh;
+    text-align: left;
+    margin-right: 10%;
+
+}
+#divnat2{
+    width: 50%;
+    height: 80vh;
+    display: flex;
+}
+#divpic1{
+    width: 50% ;
+    height: 100%;
+    text-align: center;
+    margin-right: 5%;
+    background-image:url(curology\ \(2\).jpg );
+}
+#divpic2{
+    width: 50% ;
+    height: 100%;
+    background-image: url(shampo.jpg);
+    text-align: center;
+
+}
+#price1{
+    position: relative;
+    top: 85%;
+}
+#price2{
+    position: relative;
+    top: 85%;
+
+
+}
+#bestseller{
+    margin-top: 28%;
+    margin-bottom: 8%;
+    font-size: 50px;
+    text-align: center;
+}
+#div33{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.bestcream{
+    height: 95vh;
+    width: 32%;
+    
+   
+}
+#pic11{background-image: url(curology\ 22.jpg);
+
+}
+#pic22{
+    background-image: url(shampo\ 22.jpg);
+
+}
+#pic33{
+    background-image: url(lotion\ 22.jpg)
+
+}
